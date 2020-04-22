@@ -1,11 +1,11 @@
 ## About HEART
 
-Adalah aplikasi HRIS yang menggunakan
+Adalah aplikasi HRIS yang menggunakan teknologi:
 
 - [Laravel](https://laravel.com/).
 - [PostgreSQL](https://www.postgresql.org/).
 
-Dibangun dari hati.
+Masih dalam tahap development. Dibangun dari hati.
 
 
 ## License
